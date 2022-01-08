@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![GitHub Fytex](https://img.shields.io/github/followers/keigo-dev?label=follow&style=social)]![image](https://user-images.githubusercontent.com/93848966/148645166-b3d25a98-b7d9-4946-bcec-a907bbf48931.png)
+[![GitHub Fytex](https://img.shields.io/github/followers/keigo-dev?label=follow&style=social)]![image](https://user-images.githubusercontent.com/93848966/148645198-964675ad-5c21-475c-91c0-458e9c2c6165.png)
+
 
 <!--
 **keigo-dev/keigo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
